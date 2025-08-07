@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Monthly Sales Tracker\bin\Debug\Monthly Sales Tracker.exe.config
+C:\Users\HP\source\repos\Monthly Sales Tracker\bin\Debug\Monthly Sales Tracker.exe
+C:\Users\HP\source\repos\Monthly Sales Tracker\bin\Debug\Monthly Sales Tracker.pdb
+C:\Users\HP\source\repos\Monthly Sales Tracker\obj\Debug\Monthly Sales Tracker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Monthly Sales Tracker\obj\Debug\Monthly Sales Tracker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Monthly Sales Tracker\obj\Debug\Monthly Sales Tracker.exe
+C:\Users\HP\source\repos\Monthly Sales Tracker\obj\Debug\Monthly Sales Tracker.pdb
